@@ -1,0 +1,53 @@
+Let's ask them.
+
+0.48
+They are acting silly.
+
+0.41
+My ice cream will have melted by the time we get there.
+
+0.32
+She is married and has been for some considerable time.
+
+0.74
+He usually or habitually sings.
+
+0.51
+How are you doing?
+
+0.55
+I haven't ever seen anything like it.
+
+0.73
+He did not see anything.
+
+0.32
+Nobody is going to find out.
+
+0.48
+He is usually working.
+
+0.5
+He is sleeping.
+
+0.47
+He got a job a long time ago.
+
+0.47
+He is never without a job!
+
+0.48
+Nobody can say he doesn't work.
+
+0.29
+There's a man at the door here to see you.
+
+0.71
+He went to work and then he called his client.
+
+0.51
+She is happy.
+
+0.74
+She has been running for a long time.
+0.49
